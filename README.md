@@ -15,8 +15,7 @@
 A CNN model that can classify X-Ray images as a <b>Tuberculosis case or a Normal case</b>.
 
 # Website
-[Complete Website]() <br>
-[Stremlit Website](https://share.streamlit.io/jith4j/tuberculosis-classification/main/web.py)
+[Website](https://ajas-classifier.herokuapp.com/) <br>
 
 
 # Dataset
